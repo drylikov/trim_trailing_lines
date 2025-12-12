@@ -5,6 +5,7 @@
 
 # Trim trailing lines.
 
+
 Remove final line endings from a string.
 
 ## Contents
