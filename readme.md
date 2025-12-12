@@ -1,7 +1,6 @@
 
 # trim_trailing_lines
 
-[![Coverage][coverage-badge]][coverage]
 [![Downloads][downloads-badge]][downloads]
 [![Size][size-badge]][size]
 
