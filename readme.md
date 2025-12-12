@@ -1,7 +1,6 @@
 
 # trim_trailing_lines
 
-[![Downloads][downloads-badge]][downloads]
 [![Size][size-badge]][size]
 
 Remove final line endings from a string.
