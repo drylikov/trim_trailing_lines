@@ -20,6 +20,7 @@ Remove final line endings from a string.
 
 
 
+
 *   [What is this?](#what-is-this)
 *   [When should I use this?](#when-should-i-use-this)
 *   [Install](#install)
