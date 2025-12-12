@@ -93,6 +93,7 @@ trimTrailingLines('foo\nbar\n\n') // => 'foo\nbar'
 
 
 
+
 This package exports the identifier `trimTrailingLines`.
 There is no default export.
 
