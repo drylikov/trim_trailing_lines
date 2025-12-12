@@ -31,7 +31,7 @@ Remove final line endings from a string.
 *   [Compatibility](#compatibility)
 *   [Contribute](#contribute)
 *   [Security](#security)
-*   [License](#license)
+
 
 
 
