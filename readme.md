@@ -3,7 +3,7 @@
 
 
 
-# Trim_trailing_lines
+# Trim trailing_lines
 
 Remove final line endings from a string.
 
