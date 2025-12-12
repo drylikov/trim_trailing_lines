@@ -91,6 +91,7 @@ trimTrailingLines('foo\nbar\n\n') // => 'foo\nbar'
 ## API
 
 
+
 This package exports the identifier `trimTrailingLines`.
 There is no default export.
 
