@@ -42,6 +42,7 @@ Remove final line endings from a string.
 
 
 
+
 This is a tiny package that removes final line endings (CR, LF, CR+LF) from a
 string.
 
